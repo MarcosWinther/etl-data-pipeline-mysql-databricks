@@ -1,0 +1,11 @@
+# Manipulação de Dados
+pandas
+numpy
+pyspark
+
+# Visualização de Dados
+matplotlib
+seaborn
+
+# Utilidades
+dbus-python
