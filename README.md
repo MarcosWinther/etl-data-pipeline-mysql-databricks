@@ -78,3 +78,31 @@ O pipeline final entrega visões claras sobre:
    - **Evolução Mensal:** Linha de tendência de faturamento.
    - **Performance por Categoria:** Quais produtos (Escrita, Papelaria, Escolar) trazem mais margem.
    - **Visão Semestral:** Comparativo de desempenho entre o 1º e 2º semestre.
+
+<br>
+
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/44624583?v=4"
+    />
+    <p>&nbsp&nbsp&nbspMarcos Winther<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/MarcosWinther">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/marcoswinthersilva/">LinkedIn</a>
+    </p>
+</p>
+<br/><br/>
+
+---
+
+⌨️ com 💜 por [Marcos Winther](https://github.com/MarcosWinther)
+<br>
+
+> ⭐ Se este projeto te ajudou ou foi interessante, considere dar uma estrela no repositório!
